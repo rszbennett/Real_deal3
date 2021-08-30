@@ -1,0 +1,20 @@
+[
+    {
+        "ticket_id": 0,
+        "user": {
+            "name": "Admin Admin",
+            "email": "admin@mozi.hu"
+        },
+        "movie": "2",
+        "amount": "1"
+    },
+    {
+        "ticket_id": 1,
+        "user": {
+            "name": "Admin Admin",
+            "email": "admin@mozi.hu"
+        },
+        "movie": "7",
+        "amount": "1"
+    }
+]

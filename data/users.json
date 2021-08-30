@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "email": "admin@mozi.hu",
+        "pwd": "admin",
+        "permissions": "admin",
+        "name": "Admin Admin",
+        "telnum": "123456789"
+    },
+    {
+        "id": 1,
+        "email": "guest@guest.cc",
+        "pwd": "guest",
+        "permissions": "user",
+        "name": "Guest Guest",
+        "telnum": "123456789"
+    },
+    {
+        "id": 2,
+        "email": "szaboadam9792@gmail.com",
+        "permissions": "user",
+        "name": "Adam Szabo",
+        "telnum": "123456789",
+        "pwd": "yes"
+    }
+]

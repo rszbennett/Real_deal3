@@ -1,0 +1,53 @@
+.inp {
+    border:1px solid #c4c4c4;
+    outline:0;
+    width:90%;
+    border-radius:8px;
+    transition: all 0.3s ease;
+    margin-bottom: 1%;
+    margin-left:1%;
+}
+.inp:focus {
+    border: 1px solid #42ff75;
+    transform: scale(1.02);
+
+}
+
+.PageTitleH3 {
+    text-align: center;
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.AlignFlexStart{
+    display:flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.AlignFlexEnd{
+    display:flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.fullWidth{
+    width: 100%;
+}
+
+
+.myPage__spaceBetweenWraper{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width:95%;
+    margin-left: 2%;
+}
+
+.myPage__contentWrapper{
+    width: 48%;
+    border: 1px solid #c4c4c4;
+    border-radius: 8px;
+    padding: 1%;
+}
